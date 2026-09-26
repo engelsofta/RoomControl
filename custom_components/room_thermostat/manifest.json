@@ -1,0 +1,11 @@
+{
+  "domain": "room_thermostat",
+  "name": "Engelsoft RoomControl",
+  "version": "0.4.31",
+  "config_flow": true,
+  "single_config_entry": true,
+  "integration_type": "service",
+  "dependencies": ["frontend", "http", "panel_custom", "websocket_api"],
+  "codeowners": [],
+  "iot_class": "calculated"
+}

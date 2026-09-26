@@ -1,0 +1,14 @@
+{
+  "title": "Engelsoft RoomControl",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Engelsoft RoomControl einrichten",
+        "description": "Danach können Räume und Wochenpläne in der Seitenleiste angelegt werden."
+      }
+    },
+    "abort": {
+      "already_configured": "Engelsoft RoomControl ist bereits eingerichtet."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Engelsoft RoomControl",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Engelsoft RoomControl",
+        "description": "You can then add rooms and weekly schedules from the sidebar."
+      }
+    },
+    "abort": {
+      "already_configured": "Engelsoft RoomControl is already configured."
+    }
+  }
+}
