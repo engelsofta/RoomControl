@@ -1,5 +1,11 @@
 # Engelsoft RoomControl
 
+[![Pre-release version](https://img.shields.io/github/v/release/engelsofta/RoomControl?include_prereleases&label=version)](https://github.com/engelsofta/RoomControl/releases)
+[![Downloads](https://img.shields.io/github/downloads/engelsofta/RoomControl/total?label=downloads)](https://github.com/engelsofta/RoomControl/releases)
+![Home Assistant custom integration](https://img.shields.io/badge/Home%20Assistant-custom-41BDF5)
+[![Tests](https://github.com/engelsofta/RoomControl/actions/workflows/tests.yml/badge.svg)](https://github.com/engelsofta/RoomControl/actions/workflows/tests.yml)
+[![Hassfest](https://github.com/engelsofta/RoomControl/actions/workflows/hassfest.yml/badge.svg)](https://github.com/engelsofta/RoomControl/actions/workflows/hassfest.yml)
+
 **A room-by-room brain for slow underfloor heating, wrapped in a calm Home Assistant interface.**
 
 RoomControl is a local custom integration for hydronic floor heating. It gives every room its own weekly schedule and adaptive valve controller, while a polished glass-style panel makes the decisions visible: current and target temperature, valve opening, heating status, upcoming schedule changes, and the controller's reasoning at a glance.
